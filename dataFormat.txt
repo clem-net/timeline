@@ -1,0 +1,12 @@
+start/end dates, standardised location
+
+start/end dates:
+founded By x during x in YEAR
+
+
+Find a way to see what pages have not been found
+
+Ommits:
+talk page e.g.:https://en.wikipedia.org/wiki/Talk:Atlas_Shrugged
+lists e.g.:https://en.wikipedia.org/wiki/Lists_of_actors
+definitions?
